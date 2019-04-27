@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626054225591",
+    "firebase_url": "https://anony-chat-5kb.firebaseio.com",
+    "project_id": "anony-chat-5kb",
+    "storage_bucket": "anony-chat-5kb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626054225591:android:3697c0b79008130a",
+        "android_client_info": {
+          "package_name": "com.example.anony_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626054225591-pu7ar258b0e164jk3oefptpa6rm4brgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3f3BXyssjj-y9xrLRvPHQOrnXBxtW6J0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
