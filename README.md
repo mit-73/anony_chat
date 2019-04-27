@@ -1,5 +1,7 @@
 # anony_chat
 
+This application was designed to participate in "Flutter Create".
+
 Anony chat is an anonymous chat with support for writing text and inserting images.
 
 Attention: this application did not start on IOS, I do not know how it will work on IOS.
